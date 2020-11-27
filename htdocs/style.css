@@ -1,0 +1,50 @@
+
+
+
+*{margin:0;padding:0}
+#a {font-size: 6ex;}
+
+div#header{
+	
+	padding:0 0 0 5%;
+	background: #00ffff;
+	
+	
+	color: #000000;
+	
+}
+
+
+div#content{
+	
+	width: 83%;			
+	height: 600px;		
+	padding: 0 0 0 2%;
+	background: #F3FA78;
+	
+	float: right;		
+	
+	
+}
+
+
+div#navi{
+	
+	width: 13%;			
+	height: 600px;		
+	padding: 0 0 0 2%;	
+	background: #B9CAFF;
+	
+    float: left;		
+	
+	font-size:2.2ex;
+}
+
+
+div#footer{
+	
+	padding: 0 0 0 2%;
+	background:#2ABBBB;	
+	
+	clear: both;		
+}
