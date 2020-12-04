@@ -48,7 +48,7 @@ div#header{
 div#content{
 	
 	width: 83%;			
-	height: 1130px;		
+	height: 1250px;		
 	padding: 0 0 0 2%;
 	background: #F3FA78;
 	float: right;		
@@ -59,7 +59,7 @@ div#content{
 div#navi{
 	
 	width: 13%;			
-	height: 1130px;		
+	height: 1250px;		
 	padding: 0 0 0 2%;	
 	background: #B9CAFF;
 	float: left;		
