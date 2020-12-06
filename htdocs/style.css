@@ -4,15 +4,16 @@
 *{margin:0;padding:0}
 #a {font-size: 5.4ex;}
 #b {color: brown;
-	font-size: 4ex;}
+	font-size: 4.5ex;}
+
 #c {color: brown;
-	font-size: 4ex;}
+	font-size: 4.5ex;}
 #f {color: brown;
-	font-size: 4ex;}
+	font-size: 4.5ex;}
 #h {color: brown;
-	font-size: 4ex;}
+	font-size: 4.5ex;}
 #j {color: brown;
-    font-size: 4ex;}
+    font-size: 4.5ex;}
 	
 
 
@@ -21,16 +22,28 @@
 
 
 
-#d {font-size: 2ex;}
-#e {font-size: 2ex;}
-#g {font-size: 2ex;}
-#i {font-size: 2ex;}
-#k {font-size: 2ex;}
-#o {font-size: 2ex;}
-#m {font-size: 2ex;}
-#l {font-size: 2ex;}
-#n {font-size: 2ex;}
-#p {font-size: 2ex;}
+#d {font-size: 3.5ex;}
+#e {font-size: 3.5ex;}
+#g {font-size: 3.5ex;}
+#i {font-size: 3.5ex;}
+#k {font-size: 3.5ex;}
+#o {font-size: 3.5ex;
+	color: brown;}
+#m {font-size: 3.5ex;
+	color: brown;}
+#l {font-size: 3.5ex;
+	color: brown;}
+#n {font-size: 3.5ex;
+	color: brown;}
+#p {font-size: 3.5ex;
+	color: brown;}
+
+
+#q {font-size: 3ex;}
+#r {font-size: 3ex;}
+#s {font-size: 3ex;}
+#t {font-size: 3ex;}
+#u
 
 
 
@@ -48,7 +61,7 @@ div#header{
 div#content{
 	
 	width: 83%;			
-	height: 1250px;		
+	height: 2600px;		
 	padding: 0 0 0 2%;
 	background: #F3FA78;
 	float: right;		
@@ -59,7 +72,7 @@ div#content{
 div#navi{
 	
 	width: 13%;			
-	height: 1250px;		
+	height: 2600px;		
 	padding: 0 0 0 2%;	
 	background: #B9CAFF;
 	float: left;		
